@@ -1,1 +1,1 @@
-# intellij-settings
+# software-settings
