@@ -1,0 +1,26 @@
+<application>
+  <component name="Trusted.Paths">
+    <option name="TRUSTED_PROJECT_PATHS">
+      <map>
+        <entry key="C:\Users\Schuetz\GitHub\PPS-Energieauswertung" value="true" />
+        <entry key="C:\Users\Schuetz\GitHub\PPS-Energieauswertung-Test" value="true" />
+        <entry key="C:\Users\Schuetz\GitHub\PPS-Energieauswertung\java" value="true" />
+        <entry key="C:\Users\Schuetz\GitHub\PPS-IT-Bedarfsmeldung" value="true" />
+        <entry key="C:\Users\Schuetz\GitHub\PPS-Kanban" value="true" />
+        <entry key="C:\Users\Schuetz\OneDrive - HG\Dokumente\GitHub\PPS-Energieauswertung" value="true" />
+        <entry key="C:\Users\Schuetz\OneDrive - HG\Dokumente\GitHub\PPS-Energieauswertung\energy-regression-prototype" value="true" />
+        <entry key="C:\Users\Schuetz\OneDrive - HG\Dokumente\GitHub\PPS-Kanban" value="true" />
+        <entry key="C:\Users\Schuetz\OneDrive - HG\Dokumente\GitHub\PPS-Projektvorlage" value="true" />
+        <entry key="C:\Users\Schuetz\OneDrive - HG\Dokumente\GitHub\PPS_Kanban" value="true" />
+      </map>
+    </option>
+  </component>
+  <component name="Trusted.Paths.Settings">
+    <option name="TRUSTED_PATHS">
+      <list>
+        <option value="C:\Users\Schuetz\OneDrive - HG\Dokumente\GitHub" />
+        <option value="C:\Users\Schuetz\GitHub" />
+      </list>
+    </option>
+  </component>
+</application>

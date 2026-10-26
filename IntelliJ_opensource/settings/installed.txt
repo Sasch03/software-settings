@@ -1,0 +1,18 @@
+Docker
+de.docs_as_co.intellij.plugin.diagramsnet
+com.vermouthx.idea
+org.jetbrains.completion.full.line
+izhangzhihao.rainbow.brackets
+com.intellij.jsp
+intellij.jupyter
+Key Promoter X
+com.intellij.plugins.vscodekeymap
+com.intellij.liquibase
+com.intellij.marketplace
+com.intellij.mcpServer
+com.intellij.notebooks.core
+com.markskelton.one-dark-theme
+org.jetbrains.security.package-checker
+idea.plugin.protoeditor
+PythonCore
+org.sonarlint.idea

@@ -1,0 +1,9 @@
+<application>
+  <component name="DoNotAskAppManager">
+    <option name="idToDisplayName">
+      <map>
+        <entry key="updates.plugins.autoupdate.notification" value="Enable auto-update for plugins" />
+      </map>
+    </option>
+  </component>
+</application>
